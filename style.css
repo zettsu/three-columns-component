@@ -80,6 +80,7 @@ main {
     font-weight: 400;
     background-color: var(--transparent-white);
     padding: 5px 15px 5px 15px;
+    text-decoration: none;
 }
 
 .cyan .btn {
